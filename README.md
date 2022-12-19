@@ -3,7 +3,6 @@ Chinese Medical Intent Dataset(CMID)
 
 This dataset is used for Chinese medical QA intent understanding task.
 
-More details will be updated soon.
 
 Dataset format:
 ======
